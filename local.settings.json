@@ -1,9 +1,10 @@
 {
-  "IsEncrypted": true,
+  "IsEncrypted": false,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8KvJ6DmYyMJCgkPKMHi9yggxobSNL+EiBudqjTbkN08MV8FPGx7WqKyJXi1vK5/3O48YnxQvGjJtBiH2gbzh8qUxrA2On+1JRf1xQeWwdKwATocSwT1CMT9SN2gtzXs0ZQ=="
-  },
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=azdevnucourse2proj;AccountKey=/XbhYKaZ4MEASGDPa5+OM2va/izJ1s856aUeg7B5phfZNnAAsAgTCeEW+gnS8rhD6SNho1PPMDjeReIqsbYj+g==",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+    },
   "ConnectionStrings": {},
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=azdevnucourse2proj;AccountKey=/XbhYKaZ4MEASGDPa5+OM2va/izJ1s856aUeg7B5phfZNnAAsAgTCeEW+gnS8rhD6SNho1PPMDjeReIqsbYj+g=="
 
-  "AzureWebJobsStorage": ""
-}
+  }

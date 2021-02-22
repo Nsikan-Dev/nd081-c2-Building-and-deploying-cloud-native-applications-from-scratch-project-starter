@@ -5,8 +5,8 @@
       "type": "eventGridTrigger",
       "name": "event",
       "direction": "in",
-	  "eventHubName": "testhub", 
-	  "connection": "Endpoint=sb://udacityneighborly.servicebus.windows.net/;SharedAccessKeyName=allpolicy;SharedAccessKey=LOxUOkN13xN038T1VoSsmaTt4s7vq/+VCzduS5/nH9A=;EntityPath=testhub"
+	  "eventHubName": "az-dev-nu-course2-eh/az-dev-nu-course2-evthub", 
+	  "connection": "Endpoint=sb://az-dev-nu-course2-eh.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=m7zRoX1wUmJ9eXlOf/IK1GgX2On4dag0Qh5i+E7bgf0="
     }
   ]
 }
